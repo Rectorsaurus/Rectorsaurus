@@ -5,7 +5,7 @@ I'm a QA Engineer at Planning Center, where I've been making a difference for th
 
 - 💻 **Current Role:** QA Engineer
 - 💼 **Past Role:** Technical Support Manager
-- 🛠️ **Tools I Use:** Git, JavaScript, Cypress
+- 🛠️ **Tools I Use:** Git, JavaScript, Cypress, Appium, Webdriver.io, Mocha, Chai
 
 ## 🌟 Hobbies & Interests
 When I'm not working, you can find me enjoying a variety of hobbies and activities:
